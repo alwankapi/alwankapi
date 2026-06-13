@@ -63,7 +63,7 @@ Currently, I am focusing on improving my skills in full-stack web development, d
 <div align="center">
 
 ### Frontend
-![Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs&theme=dark)
+![Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,)
 
 ### Backend
 ![Skills](https://skillicons.dev/icons?i=php,laravel,nodejs&theme=dark)
